@@ -1,0 +1,15 @@
+Logo Small = 231 * 68
+Frame = 430*500 or 500*500
+
+Button= bg= 153,153,153/fg= 1,1,1/Lucida Fax 16 Plain
+Button(Home)= 220*40
+Button(Exit)= 120*40
+
+jTable Scroll pane 423*360
+
+Testing: 
+
+1 after none
+2 after none
+3 after none
+4 after 1
