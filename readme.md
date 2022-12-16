@@ -19,20 +19,13 @@ Sprint2:
 Sprint3:
 1. As a bookstore employee, I’d like to press a button to view the bookstore inventory 	Ebuka 
 2. As a bookstore employee, I’d like to press a button to view the market for books 
-
-As a bookstore employee, I’d like to press a button to order books from the market 
-
-As a bookstore employee, I’d like to use a dropdown menu to filter the bookstore inventory by [None, Academic, and Non-Academic] Ebuka 
-
-As a bookstore employee, I’d like to click a button to view the list of books available in the library anu 
-
-As a bookstore employee, I’d like to click a button to request a book from the library 
-
-As a bookstore employee, I’d like to click a button to review the list of books requested by the bookstoreAnu 
-
-As a Library Employee, I’d like to click a button to review the list of books requested by the bookstoreAnu 
-
-As a library employee, I’d like to select a requested book I’d like to approve Baljot 
+3. As a bookstore employee, I’d like to press a button to order books from the market 
+4. As a bookstore employee, I’d like to use a dropdown menu to filter the bookstore inventory by [None, Academic, and Non-Academic] Ebuka 
+5. As a bookstore employee, I’d like to click a button to view the list of books available in the library anu 
+6. As a bookstore employee, I’d like to click a button to request a book from the library 
+7. As a bookstore employee, I’d like to click a button to review the list of books requested by the bookstoreAnu 
+8. As a library Employee, I’d like to click a button to review the list of books requested by the bookstoreAnu 
+9. As a library employee, I’d like to select a requested book I’d like to approve Baljot 
 
 As a library employee, I’d like to select a requested book I’d like to reject Baljot 
 
