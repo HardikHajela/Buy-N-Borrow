@@ -9,6 +9,12 @@ Sprint1:
 4. As a bookstore employee, I’d like to filter inventory by academic and non-academic books 
 
 Sprint2:
+1. As System, I’d like to identify the User as Employee, employee or customer 
+2. As a Bookstore Employee, I’d like to view the list of books available in the library 
+3. As a Bookstore Employee, I’d like to request to sell a book available in the   library 
+4. As a Library Employee, I’d like to approve a book being sold from Leddy library through Bookstore 
+5. As a Library Employee, I’d like to review which books the bookstore employee has requested to sell 
+6. As a Library Employee, I’d like to refuse a book being sold from Leddy library through Bookstore 
 
 Sprint3:
 
