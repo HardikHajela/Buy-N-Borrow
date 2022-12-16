@@ -17,15 +17,15 @@ Sprint2:
 6. As a Library Employee, I’d like to refuse a book being sold from Leddy library through Bookstore 
 
 Sprint3:
-1. As a bookstore employee, I’d like to press a button to view the bookstore inventory 	Ebuka 
+1. As a bookstore employee, I’d like to press a button to view the bookstore inventory 
 2. As a bookstore employee, I’d like to press a button to view the market for books 
 3. As a bookstore employee, I’d like to press a button to order books from the market 
-4. As a bookstore employee, I’d like to use a dropdown menu to filter the bookstore inventory by [None, Academic, and Non-Academic] Ebuka 
-5. As a bookstore employee, I’d like to click a button to view the list of books available in the library anu 
+4. As a bookstore employee, I’d like to use a dropdown menu to filter the bookstore inventory by [None, Academic, and Non-Academic] 
+5. As a bookstore employee, I’d like to click a button to view the list of books available in the library  
 6. As a bookstore employee, I’d like to click a button to request a book from the library 
-7. As a bookstore employee, I’d like to click a button to review the list of books requested by the bookstoreAnu 
-8. As a library Employee, I’d like to click a button to review the list of books requested by the bookstoreAnu 
-9. As a library employee, I’d like to select a requested book I’d like to approve Baljot 
+7. As a bookstore employee, I’d like to click a button to review the list of books requested by the bookstore 
+8. As a library Employee, I’d like to click a button to review the list of books requested by the bookstore 
+9. As a library employee, I’d like to select a requested book I’d like to approve 
 
 As a library employee, I’d like to select a requested book I’d like to reject Baljot 
 
