@@ -26,28 +26,17 @@ Sprint3:
 7. As a bookstore employee, I’d like to click a button to review the list of books requested by the bookstore 
 8. As a library Employee, I’d like to click a button to review the list of books requested by the bookstore 
 9. As a library employee, I’d like to select a requested book I’d like to approve 
-
-As a library employee, I’d like to select a requested book I’d like to reject Baljot 
-
- As a library Employee, I’d like to click a button to approve a book requestBaljot 
-
- As a library Employee, I’d like to click a button to reject a book requestBaljot 
-
- As a user, I’d like to view the bookstore inventory Ebuka 
-
- As a user, I’d like to view the Leddy library inventory Ebuka 
-
- As a Library Employee, I’d like to view the Leddy library inventory  Ebuka 
-
- As a Library Employee, I’d like to logout of the System 
-
- As a Bookstore Employee, I’d like to logout of the System 
-
- As a Library Employee, I’d like to exit the System from the Library Portal 
-
- As a Bookstore Employee, I’d like to exit the System from the Bookstore portal 
-
- As a user, I’d like to exit the System from the Home Page 
+10. As a library employee, I’d like to select a requested book I’d like to reject  
+As a library Employee, I’d like to click a button to approve a book requestBaljot 
+As a library Employee, I’d like to click a button to reject a book requestBaljot 
+As a user, I’d like to view the bookstore inventory Ebuka 
+As a user, I’d like to view the Leddy library inventory Ebuka 
+As a Library Employee, I’d like to view the Leddy library inventory  Ebuka 
+As a Library Employee, I’d like to logout of the System 
+As a Bookstore Employee, I’d like to logout of the System 
+As a Library Employee, I’d like to exit the System from the Library Portal 
+As a Bookstore Employee, I’d like to exit the System from the Bookstore portal 
+As a user, I’d like to exit the System from the Home Page 
 
 Note: Per our progess acorss Sprints, Dr. Yacoub assigned us new User Stories in each sprint accordingly. A sprint's length was 2 weeks.
 
