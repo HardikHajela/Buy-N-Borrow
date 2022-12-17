@@ -31,7 +31,7 @@ Sprint3:
 12. As a library Employee, I’d like to click a button to reject a book requestBaljot 
 13. As a user, I’d like to view the bookstore inventory Ebuka 
 14. As a user, I’d like to view the Leddy library inventory Ebuka 
-As a Library Employee, I’d like to view the Leddy library inventory  Ebuka 
+15. As a Library Employee, I’d like to view the Leddy library inventory  Ebuka 
 As a Library Employee, I’d like to logout of the System 
 As a Bookstore Employee, I’d like to logout of the System 
 As a Library Employee, I’d like to exit the System from the Library Portal 
