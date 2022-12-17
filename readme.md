@@ -32,7 +32,7 @@ Sprint3:
 13. As a user, I’d like to view the bookstore inventory  
 14. As a user, I’d like to view the Leddy library inventory  
 15. As a Library Employee, I’d like to view the Leddy library inventory   
-As a Library Employee, I’d like to logout of the System 
+16. As a Library Employee, I’d like to logout of the System 
 As a Bookstore Employee, I’d like to logout of the System 
 As a Library Employee, I’d like to exit the System from the Library Portal 
 As a Bookstore Employee, I’d like to exit the System from the Bookstore portal 
