@@ -36,7 +36,7 @@ Sprint3:
 17. As a Bookstore Employee, I’d like to logout of the System 
 18. As a Library Employee, I’d like to exit the System from the Library Portal 
 19. As a Bookstore Employee, I’d like to exit the System from the Bookstore portal 
-As a user, I’d like to exit the System from the Home Page 
+20. As a user, I’d like to exit the System from the Home Page 
 
 Note: Per our progess acorss Sprints, Dr. Yacoub assigned us new User Stories in each sprint accordingly. A sprint's length was 2 weeks.
 
