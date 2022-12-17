@@ -28,7 +28,7 @@ Sprint3:
 9. As a library employee, I’d like to select a requested book I’d like to approve 
 10. As a library employee, I’d like to select a requested book I’d like to reject  
 11. As a library Employee, I’d like to click a button to approve a book request
-As a library Employee, I’d like to click a button to reject a book requestBaljot 
+12. As a library Employee, I’d like to click a button to reject a book requestBaljot 
 As a user, I’d like to view the bookstore inventory Ebuka 
 As a user, I’d like to view the Leddy library inventory Ebuka 
 As a Library Employee, I’d like to view the Leddy library inventory  Ebuka 
