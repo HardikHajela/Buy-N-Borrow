@@ -28,10 +28,10 @@ Sprint3:
 9. As a library employee, I’d like to select a requested book I’d like to approve 
 10. As a library employee, I’d like to select a requested book I’d like to reject  
 11. As a library Employee, I’d like to click a button to approve a book request
-12. As a library Employee, I’d like to click a button to reject a book requestBaljot 
-13. As a user, I’d like to view the bookstore inventory Ebuka 
-14. As a user, I’d like to view the Leddy library inventory Ebuka 
-15. As a Library Employee, I’d like to view the Leddy library inventory  Ebuka 
+12. As a library Employee, I’d like to click a button to reject a book request
+13. As a user, I’d like to view the bookstore inventory  
+14. As a user, I’d like to view the Leddy library inventory  
+15. As a Library Employee, I’d like to view the Leddy library inventory   
 As a Library Employee, I’d like to logout of the System 
 As a Bookstore Employee, I’d like to logout of the System 
 As a Library Employee, I’d like to exit the System from the Library Portal 
