@@ -31,10 +31,10 @@ Sprint3:
 12. As a library Employee, I’d like to click a button to reject a book request
 13. As a user, I’d like to view the bookstore inventory  
 14. As a user, I’d like to view the Leddy library inventory  
-15. As a Library Employee, I’d like to view the Leddy library inventory   
-16. As a Library Employee, I’d like to logout of the System 
+15. As a library Employee, I’d like to view the Leddy library inventory   
+16. As a library Employee, I’d like to logout of the System 
 17. As a bookstore Employee, I’d like to logout of the System 
-18. As a Library Employee, I’d like to exit the System from the Library Portal 
+18. As a library Employee, I’d like to exit the System from the Library Portal 
 19. As a bookstore Employee, I’d like to exit the System from the Bookstore portal 
 20. As a user, I’d like to exit the System from the Home Page 
 
