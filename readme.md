@@ -38,6 +38,8 @@ Sprint3:
 19. As a bookstore Employee, I’d like to exit the System from the Bookstore portal 
 20. As a user, I’d like to exit the System from the Home Page 
 
+Kindly visit: https://github.com/HardikHajela/Buy-N-Borrow/tree/main/BuyNBorrow/BuyNBorrow/src/main/java/Main to view how these User Stories are Implemented!
+
 Note: Per our progess acorss Sprints, Dr. Yacoub assigned us new User Stories in each sprint accordingly. A sprint's length was 2 weeks.
 
 Final Grade we Recieved for the Project: 115/110 (Including Bonus recieved!)
