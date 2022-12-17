@@ -33,9 +33,9 @@ Sprint3:
 14. As a user, I’d like to view the Leddy library inventory  
 15. As a Library Employee, I’d like to view the Leddy library inventory   
 16. As a Library Employee, I’d like to logout of the System 
-17. As a Bookstore Employee, I’d like to logout of the System 
+17. As a bookstore Employee, I’d like to logout of the System 
 18. As a Library Employee, I’d like to exit the System from the Library Portal 
-19. As a Bookstore Employee, I’d like to exit the System from the Bookstore portal 
+19. As a bookstore Employee, I’d like to exit the System from the Bookstore portal 
 20. As a user, I’d like to exit the System from the Home Page 
 
 Note: Per our progess acorss Sprints, Dr. Yacoub assigned us new User Stories in each sprint accordingly. A sprint's length was 2 weeks.
