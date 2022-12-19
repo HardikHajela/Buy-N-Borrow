@@ -42,6 +42,6 @@ Sprint3:
 
 Kindly visit: https://github.com/HardikHajela/Buy-N-Borrow/tree/main/BuyNBorrow/BuyNBorrow/src/main/java/Main to view how these User Stories are Implemented!
 
-Note: Per our progess across previous Sprints, Dr. Yacoub assigned us new User Stories in each sprint accordingly. A sprint's length was 2 weeks.
+Note: Per our progress across previous Sprints, Dr. Yacoub assigned us new User Stories in each sprint accordingly. A sprint's length was 2 weeks.
 
 Final Grade we Recieved for the Project: 115/110 (Including Bonus recieved!)
