@@ -22,7 +22,7 @@ Sprint3:
 1. As a bookstore employee, I’d like to press a button to view the bookstore inventory 
 2. As a bookstore employee, I’d like to press a button to view the market for books 
 3. As a bookstore employee, I’d like to press a button to order books from the market 
-4. As a bookstore employee, I’d like to use a dropdown menu to filter the bookstore inventory by [None, Academic, and Non-Academic] 
+4. As a bookstore employee, I’d like to use a dropdown menu to filter the bookstore inventory by None, Academic, and Non-Academic
 5. As a bookstore employee, I’d like to click a button to view the list of books available in the library  
 6. As a bookstore employee, I’d like to click a button to request a book from the library 
 7. As a bookstore employee, I’d like to click a button to review the list of books requested by the bookstore 
