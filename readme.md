@@ -1,4 +1,5 @@
 <h2>BuyNBorrow</h2>
+<img src="https://raw.githubusercontent.com/HardikHajela/Buy-N-Borrow/main/BuyNBorrow/BuyNBorrow/extra/logo1small.png" />
 
 This Project was made as a Final Project for COMP-4220: AGILE SOFTWARE DEVELOPMENT offered at the University of WIndsor and was taught by Dr. Aznam Yacoub. The above code is the Front-end to the Application. This Application was Developed and Tested folling the XP(eXtreme Programming), an Agile Methodology. It was made acoss 3 Sprints with the following User Stories: 
 
