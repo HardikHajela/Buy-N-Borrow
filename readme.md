@@ -44,5 +44,5 @@ Kindly visit: https://github.com/HardikHajela/Buy-N-Borrow/tree/main/BuyNBorrow/
 
 Note: Per our progress across previous Sprints, Dr. Yacoub assigned us new User Stories in each sprint accordingly. A sprint's length was 2 weeks.
 
-Final Grade we Recieved for the Project: 115/110 (Including Bonus recieved!)<br />
+Final Grade recieved for the Project, Presentation and its Evalution Exam: 115/110 (Including Bonus recieved!)<br />
 <img src="https://github.com/HardikHajela/Buy-N-Borrow/blob/main/BuyNBorrow/BuyNBorrow/extra/COMP4220_Grades.png" height="460"/>
