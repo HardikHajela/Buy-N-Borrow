@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/HardikHajela/Buy-N-Borrow/main/BuyNBorrow/BuyNBorrow/extra/logo1small.png" />
 </h2> 
 
-This Application was made as a Final Project for COMP-4220: AGILE SOFTWARE DEVELOPMENT offered at the University of Windsor and taught by Dr. Aznam Yacoub. This Application was Developed and Tested following XP(eXtreme Programming), an Agile Test-driven Methodology. It was made across 3 Sprints with the following User Stories: 
+This GUI Application was made as a Final Project for COMP-4220: AGILE SOFTWARE DEVELOPMENT offered at the University of Windsor and taught by Dr. Aznam Yacoub. This Application was Developed and Tested following XP(eXtreme Programming), an Agile Test-driven Methodology. It was made across 3 Sprints with the following User Stories: 
 
 Sprint1:
 1. As a bookstore employee, I would like to view the inventory 
